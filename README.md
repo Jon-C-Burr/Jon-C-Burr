@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jon-C-Burr
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in front-end web dev
+- 🌱 I’m currently learning JS, HTML5, CSS3, and JQuery
+- 💞️ I’m looking to collaborate on anything I can contribute to
 - 📫 How to reach me: github.com/Jon-C-Burr
 
 <!---
